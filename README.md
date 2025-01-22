@@ -21,7 +21,6 @@ Ensure you have the following installed:
 
 #### Option 1: Using Homebrew (macOS)
 ```bash
-brew new-tap amoghrrathod/homebrew-alertify
 brew install amoghrrathod/alertify/alertify
 ```
 #### Option 2: Manual Installation (All platforms)
