@@ -21,6 +21,7 @@ Ensure you have the following installed:
 
 #### Option 1: Using Homebrew (macOS)
 ```bash
+brew new-tap amoghrrathod/homebrew-alertify
 brew install amoghrrathod/alertify/alertify
 ```
 #### Option 2: Manual Installation (All platforms)
@@ -74,6 +75,7 @@ alertify --restore
 To uninstall Alertify via Homebrew:
 ```bash
 brew uninstall alertify
+brew untap amoghrrathod/homebrew-alertify
 ```
 #### Option 2: Manual Uninstall
 Remove the installed binary:
